@@ -1,5 +1,5 @@
 const password = prompt("Enter password:");
-if (password === "@yourfavniggahere") {
+if (password === "krishnaop") { // Password changed to "krishnaop"
     const tapButton = () => {
         const button = document.querySelector('div._tapArea_njdmz_15'); // Replace this if necessary
         if (button) {
